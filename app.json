@@ -1,0 +1,39 @@
+{
+  "id": "ffe09743-70f7-403f-8a2e-1aa27f672da8",
+  "name": "Data_Transfer",
+  "publisher": "Intech",
+  "version": "1.0.0.1",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "cc11c22e-5ca3-423f-8804-88cac6d91983",
+      "name": "Dynamics BC Excel Reports",
+      "publisher": "Microsoft",
+      "version": "24.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "13.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
